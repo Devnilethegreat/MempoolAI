@@ -65,3 +65,5 @@ if (require.main === module) {
 }
 
 module.exports = { MempoolAI, MempoolAICore };
+
+# revision 8 (2025-10-25): review pass
