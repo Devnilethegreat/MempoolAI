@@ -17,3 +17,6 @@ All notable changes to MempoolAI are documented here.
 
 ## [2026-01-29]
 - Improve logging and error messages
+
+## [2026-03-27]
+- Improve logging and error messages
