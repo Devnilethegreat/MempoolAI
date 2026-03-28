@@ -71,3 +71,5 @@ module.exports = { MempoolAI, MempoolAICore };
 # revision 17 (2026-02-05): review pass
 
 # revision 20 (2026-03-22): review pass
+
+# revision 22 (2026-03-28): review pass
