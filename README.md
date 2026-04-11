@@ -48,8 +48,3 @@ Contributions are welcome and appreciated! Please fork the repository, create a 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Recent updates
-
-- **2025-10-13** — Expand test coverage for edge cases
-- **2025-10-19** — Expand test coverage for edge cases

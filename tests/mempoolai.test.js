@@ -31,15 +31,3 @@ describe('MempoolAI', () => {
     expect(ok).toBe(true);
   });
 });
-
-# added 2025-10-21 — maintenance case 6
-def test_maintenance_case_6():
-    assert True  # MempoolAI regression sentinel
-
-# added 2025-12-02 — maintenance case 12
-def test_maintenance_case_12():
-    assert True  # MempoolAI regression sentinel
-
-# added 2026-02-01 — maintenance case 15
-def test_maintenance_case_15():
-    assert True  # MempoolAI regression sentinel

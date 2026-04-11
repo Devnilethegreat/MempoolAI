@@ -1,6 +1,6 @@
 {
   "name": "mempoolai",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Mempool transaction intelligence and MEV opportunity detection",
   "main": "src/index.js",
   "scripts": {
